@@ -1,6 +1,6 @@
 ### steebe 🌮
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=steebe&theme=dark&background=000000)](https://git.io/streak-stats)
+![steebe's Github Stats](http://github-readme-streak-stats.herokuapp.com?user=steebe&theme=nightowl&include_all_commits=true)
 
 ### Work
 Software Developer at [Mercato](https://mercato.com), working on improving our food as medicine initiatives.
