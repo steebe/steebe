@@ -1,8 +1,8 @@
 ### steebe 🌮
 
-<p align="center">
+<div style="text-align:center">
   ![steebe's Github Stats](http://github-readme-streak-stats.herokuapp.com?user=steebe&theme=nordfox&include_all_commits=true)
-</p>
+</div>
 
 ### Work
 Software Developer at [Mercato](https://mercato.com), working on improving our food as medicine initiatives.
